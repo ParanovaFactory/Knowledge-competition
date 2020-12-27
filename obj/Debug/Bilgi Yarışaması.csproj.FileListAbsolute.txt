@@ -1,0 +1,10 @@
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\bin\Debug\Bilgi Yarışaması.exe.config
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\bin\Debug\Bilgi Yarışaması.exe
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\bin\Debug\Bilgi Yarışaması.pdb
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi Yarışaması.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi_Yarışaması.Form1.resources
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi_Yarışaması.Properties.Resources.resources
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi Yarışaması.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi Yarışaması.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi Yarışaması.exe
+O:\Udemy\Udemy C# Projeleri\Bilgi Yarışaması\Bilgi Yarışaması\obj\Debug\Bilgi Yarışaması.pdb
